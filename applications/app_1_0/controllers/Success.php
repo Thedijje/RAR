@@ -18,8 +18,35 @@ class Welcome extends CI_Controller {
 	 * map to /index.php/welcome/<method_name>
 	 * @see https://codeigniter.com/user_guide/general/urls.html
 	 */
+	public function __construct()
+	{
+		parent::__construct();
+		$this->load->model(array('Success_model'=>'success'));
+	}
+				
 	public function index()
 	{
 		$this->load->view('welcome_message');
 	}
+
+	/**
+	 * This function is accept post data:
+	 * 	data image (Image clicked)
+	 *  recording (file having recording)
+	 *  service (Id of service)
+	 *  lat, long (location of device from which request generated)
+	 */
+	public function send_alert(){
+		$data	=	$this->input->post();
+
+		// get nerest requested services device id
+
+		$near_availables	=	$this->success->near_services($data['lat'],$data['long']);
+
+
+
+	}
+
+
+
 }
