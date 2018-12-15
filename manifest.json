@@ -3,22 +3,22 @@
   "name": "Rapid anonymous reporting ",
   "icons": [
     {
-      "src": "/static/images/RAR.png",
+      "src": "static/images/RAR.png",
       "type": "image/png",
       "sizes": "64x64"
     },
     {
-      "src": "/static/images/RAR.png",
+      "src": "static/images/RAR.png",
       "type": "image/png",
       "sizes": "128x128"
     },
     {
-      "src": "/static/images/RAR.png",
+      "src": "static/images/RAR.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "/static/images/RAR.png",
+      "src": "static/images/RAR.png",
       "type": "image/png",
       "sizes": "512x512"
     }

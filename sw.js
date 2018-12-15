@@ -2,7 +2,7 @@
 
 //Install stage sets up the offline page in the cache and opens a new cache
 self.addEventListener('install', function(event) {
-    var offlinePage = new Request('/offline');
+    var offlinePage = new Request(base_url+'offline');
     event.waitUntil(
       fetch(offlinePage).then(function(response) {
         return caches.open('ror-offline').then(function(cache) {
@@ -19,7 +19,7 @@ self.addEventListener('install', function(event) {
       fetch(event.request).catch(function(error) {
         console.error( 'Failed to install sw ' + error );
         return caches.open('pwabuilder-offline').then(function(cache) {
-          return cache.match('offline.html');
+          return cache.match('offline');
         });
       }
     ));

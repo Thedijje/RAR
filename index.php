@@ -54,8 +54,18 @@
 		*	Local system
 		*/
 			define('DB_GROUP','DB_LOCAL');
+			define('BASE_URL','http://10.104.200.17/rar/');
+			define('ENV','development');
+			$app_dir = 'applications/app_1_0/';
+		break;
+
+		case 'localhost':
+		/*
+		*	Local system
+		*/
+			define('DB_GROUP','DB_LOCAL');
 			define('BASE_URL','http://localhost/rar/');
-			define('ENV','production');
+			define('ENV','development');
 			$app_dir = 'applications/app_1_0/';
 		break;
 
