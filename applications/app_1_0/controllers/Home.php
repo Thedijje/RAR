@@ -15,6 +15,7 @@ class Home extends CI_Controller {
 
 	public function save(){
 		
-		dd($_FILES['clicked_pic']);
+		
+		
 	}
 }

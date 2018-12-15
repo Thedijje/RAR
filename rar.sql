@@ -2,13 +2,21 @@
 -- version 4.8.3
 -- https://www.phpmyadmin.net/
 --
--- Host: localhost:8889
--- Generation Time: Dec 15, 2018 at 09:15 PM
--- Server version: 5.7.23
--- PHP Version: 7.2.10
+-- Host: localhost
+-- Generation Time: Dec 15, 2018 at 10:38 PM
+-- Server version: 10.1.36-MariaDB
+-- PHP Version: 7.0.32
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
+SET AUTOCOMMIT = 0;
+START TRANSACTION;
 SET time_zone = "+00:00";
+
+
+/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
+/*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
+/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
+/*!40101 SET NAMES utf8mb4 */;
 
 --
 -- Database: `rar`
@@ -33,6 +41,19 @@ CREATE TABLE `incidents` (
   `i_altitude` int(11) DEFAULT NULL,
   `i_status` tinyint(4) NOT NULL DEFAULT '3'
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `incidents_service`
+--
+
+CREATE TABLE `incidents_service` (
+  `is_id` int(10) NOT NULL,
+  `incident_id` int(10) NOT NULL,
+  `service_id` int(10) NOT NULL,
+  `is_at` tinyint(1) NOT NULL DEFAULT '1'
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
 -- --------------------------------------------------------
 
@@ -184,6 +205,12 @@ ALTER TABLE `incidents`
   ADD PRIMARY KEY (`i_id`);
 
 --
+-- Indexes for table `incidents_service`
+--
+ALTER TABLE `incidents_service`
+  ADD PRIMARY KEY (`is_id`);
+
+--
 -- Indexes for table `incident_images`
 --
 ALTER TABLE `incident_images`
@@ -230,6 +257,12 @@ ALTER TABLE `incidents`
   MODIFY `i_id` int(11) NOT NULL AUTO_INCREMENT;
 
 --
+-- AUTO_INCREMENT for table `incidents_service`
+--
+ALTER TABLE `incidents_service`
+  MODIFY `is_id` int(10) NOT NULL AUTO_INCREMENT;
+
+--
 -- AUTO_INCREMENT for table `incident_images`
 --
 ALTER TABLE `incident_images`
@@ -264,3 +297,8 @@ ALTER TABLE `services`
 --
 ALTER TABLE `status`
   MODIFY `status_id` int(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=13;
+COMMIT;
+
+/*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
+/*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
+/*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
