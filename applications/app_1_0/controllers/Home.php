@@ -12,4 +12,9 @@ class Home extends CI_Controller {
 		$this->load->view('front/home',$data);
 		$this->load->view('front/includes/footer',$data);
 	}
+
+	public function save(){
+		
+		dd($_FILES['clicked_pic']);
+	}
 }
