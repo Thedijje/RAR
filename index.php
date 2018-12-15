@@ -59,26 +59,6 @@
 			$app_dir = 'applications/app_1_0/';
 		break;
 
-		case 'localhost':
-		/*
-		*	Local system
-		*/
-			define('DB_GROUP','DB_LOCAL');
-			define('BASE_URL','http://localhost/rar/');
-			define('ENV','development');
-			$app_dir = 'applications/app_1_0/';
-		break;
-
-		case 'http://example.com/':
-			define('DB_GROUP','DB_PRODUCTION');
-			define('BASE_URL','http://example.com/');
-			define('ENV','production');
-			$app_dir = 'applications/app_1_0/';
-
-
-		break;
-
-
 		default:
 			
 		header('location:http://example.com/?ref='.base64_encode($server));

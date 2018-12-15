@@ -1,7 +1,7 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-class Welcome extends CI_Controller {
+class Success extends CI_Controller {
 
 	/**
 	 * Index Page for this controller.
@@ -26,7 +26,7 @@ class Welcome extends CI_Controller {
 				
 	public function index()
 	{
-		$this->load->view('welcome_message');
+		echo "HEllo";						
 	}
 
 	/**
@@ -37,15 +37,17 @@ class Welcome extends CI_Controller {
 	 *  lat, long (location of device from which request generated)
 	 */
 	public function send_alert(){
-		$data	=	$this->input->post();
+		//$data	=	$this->input->post();
 
 		// get nerest requested services device id
 
-		$near_availables	=	$this->success->near_services($data['lat'],$data['long']);
+		$near_availables	=	$this->success->near_services('28.458181','77.0633900000001');
 
 
 
 	}
+
+
 
 
 
