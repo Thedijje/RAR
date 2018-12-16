@@ -5,6 +5,6 @@
     <p class="text-center"><?php $this->lib->alert_message();?></p>
     
     <p class="text-center">
-        <button class="btn btn-warning" onclick="windowClose()"><i class="fa fa-check"></i> Close</button>
+        <a href="<?php echo base_url('success/go_back')?>"><button class="btn btn-warning" onclick="windowClose()"><i class="fa fa-home"></i> Go Home</button></a>
     </p>
 </section>

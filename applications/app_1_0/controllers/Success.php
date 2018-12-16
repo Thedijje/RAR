@@ -12,7 +12,7 @@ class Success extends CI_Controller {
 				
 	public function index(){
 		$data['title']	=	'Alert sent successfully';
-		$data['heading']=	'Alert sent successfully';
+		$data['heading']=	'';
 		
 		$this->load->view('front/includes/header',$data);
 		$this->load->view('front/success',$data);
@@ -35,6 +35,14 @@ class Success extends CI_Controller {
 
 
 
+	}
+
+	public function go_back()
+	{
+		unset($_SESSION['incident_id']);
+		unset($_SESSION['incident_image']);
+		redirect(base_url());
+		exit();
 	}
 
 

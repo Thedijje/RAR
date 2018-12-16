@@ -41,7 +41,8 @@
                 <header>
                     <a href="<?php echo base_url();?>">
                         <h3> <img src="<?php echo base_url('static/images/RAR_wide.png')?>" alt="RAR" width="100" class="pwa_logo float-left">
-                            <?php echo $heading?>
+                            <?php echo $heading ?? ''?>
                         </h3>
+                        <div class="clearfix"></div>
                     </a>
                 </header>
