@@ -56,3 +56,4 @@ ERROR - 2018-12-16 09:12:31 --> Severity: Notice --> Undefined variable: image /
 ERROR - 2018-12-16 09:13:54 --> Severity: Notice --> Undefined variable: image /Applications/XAMPP/xamppfiles/htdocs/RAR/applications/app_1_0/controllers/Home.php 48
 ERROR - 2018-12-16 09:21:28 --> Directory does not exist, please create directory or defined valid path in first argument
 ERROR - 2018-12-16 09:21:28 --> file upload error
+ERROR - 2018-12-16 09:41:50 --> Severity: Notice --> Undefined variable: image /Applications/XAMPP/xamppfiles/htdocs/RAR/applications/app_1_0/controllers/Home.php 48
