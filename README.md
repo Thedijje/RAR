@@ -1,4 +1,4 @@
-# RAR - Rapid anonymous reporting
+# RAR - Rapid Anonymous Reporting
 
 RAR is quick to respond app which will help 100s and 1000s of witnesses to report for any emergencies, road accidents, fire or anything which needed to be reported, and that too hassle free and anonymously.
 
