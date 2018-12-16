@@ -42,7 +42,7 @@
 
 	error_reporting(-1);
 	ini_set('memory_limit', '1024M');
-	$server 	=	'localhost';
+	$server 	=	$_SERVER['SERVER_NAME'];
 	// echo $server;
 	// exit();
 	date_default_timezone_set('Asia/Kolkata');

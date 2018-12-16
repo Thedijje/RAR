@@ -52,3 +52,7 @@ ERROR - 2018-12-16 07:34:49 --> 404 Page Not Found: Bootstrapmincssmap/index
 ERROR - 2018-12-16 07:51:38 --> Severity: Notice --> Undefined variable: image /Applications/XAMPP/xamppfiles/htdocs/RAR/applications/app_1_0/controllers/Home.php 48
 ERROR - 2018-12-16 07:55:13 --> Severity: Notice --> Undefined variable: image /Applications/XAMPP/xamppfiles/htdocs/RAR/applications/app_1_0/controllers/Home.php 48
 ERROR - 2018-12-16 07:59:51 --> Severity: Notice --> Undefined variable: image /Applications/XAMPP/xamppfiles/htdocs/RAR/applications/app_1_0/controllers/Home.php 48
+ERROR - 2018-12-16 09:12:31 --> Severity: Notice --> Undefined variable: image /Applications/XAMPP/xamppfiles/htdocs/RAR/applications/app_1_0/controllers/Home.php 48
+ERROR - 2018-12-16 09:13:54 --> Severity: Notice --> Undefined variable: image /Applications/XAMPP/xamppfiles/htdocs/RAR/applications/app_1_0/controllers/Home.php 48
+ERROR - 2018-12-16 09:21:28 --> Directory does not exist, please create directory or defined valid path in first argument
+ERROR - 2018-12-16 09:21:28 --> file upload error
