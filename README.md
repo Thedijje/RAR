@@ -7,7 +7,7 @@ RAR is 'reporting' web app build for mobile as well in for of PWA which is best 
 
 ## App user
 - The witness of any mishap/situation
-- Local authorities such as Hospital/ambulance service, Police department, firefighting services.
+- Local authorities such as Hospital/Ambulance Services, Police Department, Firefighting Services.
 
 ## How to report
 - App keeping a very simple hassle free UI which making the user experience as quick as checking WhatsApp message at a glance.
