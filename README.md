@@ -10,17 +10,17 @@ RAR is 'reporting' web app build for mobile as well in for of PWA which is best 
 - Local authorities such as Hospital/ambulance service, Police department, firefighting services.
 
 ## How to report
-- App keeping a very simple hassle free UI which making user experience as quick as checking whatsapp message at a glance.
-- User can just tap to open app, 
+- App keeping a very simple hassle free UI which making the user experience as quick as checking WhatsApp message at a glance.
+- A user can just tap to open the app, 
 - Take photo
-- Select service he want to inforom
+- Select service he wants to inform
 - Done
-- Additionally user can subscribe/add their more information to get notification how quickly and/or when reponse team has been acting.
+- Additionally, the user can subscribe/add their more information to get notification how quickly and/or when the response team has been acting.
 
 ## Why they should
-- Social cause, willingness to make socity a safer place and helping local bodies for any sort of leaks in situatation.
-- From making quick help available to one who met accedent on road to preventing terrorist activities by reporting any suspicious behaviour to them.
-- Additionally, we are planning to add voice message additionally in case user may not able to provide photo.
+- Social cause, willingness to make society a safer place and helping local bodies for any sort of leaks in the situation.
+- From making quick help available to one who met an accident on road to preventing terrorist activities by reporting any suspicious behavior to them.
+- Additionally, we are planning to add voice message additionally in case user may not able to provide the photo.
 
-## Anonmous
+## Anonymous
 - We are not asking for any details from user, not even name, however user can provide same with their own will to help local bodies to connect with them and provide much details
