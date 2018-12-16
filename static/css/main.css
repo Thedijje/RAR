@@ -25,6 +25,30 @@ header{
     max-height:100vh;
 }
 
+.pwa_logo{
+    margin:-10px;
+}
+
+
+.app_area a{
+    color:#fff;
+
+}
+
+.app_area a:hover{
+    text-decoration: none;
+    
+}
+
+
+.offline{
+    opacity:0.8;
+}
+
+.button_nav{
+padding:10px;
+margin:10px auto;
+}
 
 .step_2{
     margin:10px auto;
@@ -32,8 +56,9 @@ header{
 }
 
 #cam_preview{
-    width:100%;
-    max-height:100%;
+    width:auto;
+    max-height:500px;
+    margin:0px auto;
 }
 
 section.image_preview img{

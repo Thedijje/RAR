@@ -132,4 +132,7 @@ $autoload['language'] = array();
 |
 |	$autoload['model'] = array('first_model' => 'first');
 */
-$autoload['model'] = array();
+$autoload['model'] = array(
+    'helper_model'  =>  'lib',
+    'incident_model'=>  'incident'
+);
