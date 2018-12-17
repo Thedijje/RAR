@@ -118,7 +118,7 @@ class Helper_model extends CI_Model {
 			?>
 			<div id="fading_div" class="alert alert-<?php echo $type;?>">
 				<i class="fa fa-info-circle fa-lg"></i> <?php echo $this->session->userdata('msg');?>
-				<span onclick="$('#fading_div').fadeOut('slow')" class="pull-right" style="cursor:pointer"><i class="fa fa-times"></i></span>
+				<span onclick="$('#fading_div').fadeOut('slow')" class="pull-right" style="cursor:pointer"><i class="hidden fa fa-times"></i></span>
 			</div>
 			<?php
 		}

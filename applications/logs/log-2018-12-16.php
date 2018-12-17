@@ -61,3 +61,98 @@ ERROR - 2018-12-16 10:17:58 --> Severity: Notice --> Undefined variable: image /
 ERROR - 2018-12-16 10:28:54 --> 404 Page Not Found: Static/images
 ERROR - 2018-12-16 10:36:21 --> Severity: Notice --> Undefined variable: image /Applications/XAMPP/xamppfiles/htdocs/RAR/applications/app_1_0/controllers/Home.php 48
 ERROR - 2018-12-16 10:37:12 --> Severity: Notice --> Undefined variable: image /Applications/XAMPP/xamppfiles/htdocs/RAR/applications/app_1_0/controllers/Home.php 48
+ERROR - 2018-12-16 10:51:26 --> Severity: Notice --> Undefined variable: image /Applications/XAMPP/xamppfiles/htdocs/RAR/applications/app_1_0/controllers/Home.php 48
+ERROR - 2018-12-16 10:52:31 --> Severity: Notice --> Undefined variable: image /Applications/XAMPP/xamppfiles/htdocs/RAR/applications/app_1_0/controllers/Home.php 48
+ERROR - 2018-12-16 10:54:05 --> Severity: Notice --> Undefined variable: image /Applications/XAMPP/xamppfiles/htdocs/RAR/applications/app_1_0/controllers/Home.php 48
+ERROR - 2018-12-16 10:55:33 --> Severity: Notice --> Undefined variable: image /Applications/XAMPP/xamppfiles/htdocs/RAR/applications/app_1_0/controllers/Home.php 48
+ERROR - 2018-12-16 11:19:21 --> Severity: Notice --> Undefined variable: image /Applications/XAMPP/xamppfiles/htdocs/RAR/applications/app_1_0/controllers/Home.php 48
+ERROR - 2018-12-16 11:34:29 --> Severity: Notice --> Undefined variable: image /Applications/XAMPP/xamppfiles/htdocs/RAR/applications/app_1_0/controllers/Home.php 48
+ERROR - 2018-12-16 11:40:55 --> Severity: Notice --> Undefined variable: image /Applications/XAMPP/xamppfiles/htdocs/RAR/applications/app_1_0/controllers/Home.php 48
+ERROR - 2018-12-16 11:42:27 --> Severity: Notice --> Undefined variable: image /Applications/XAMPP/xamppfiles/htdocs/RAR/applications/app_1_0/controllers/Home.php 48
+ERROR - 2018-12-16 11:45:00 --> Severity: Notice --> Undefined variable: image /Applications/XAMPP/xamppfiles/htdocs/RAR/applications/app_1_0/controllers/Home.php 48
+ERROR - 2018-12-16 11:45:47 --> Severity: Notice --> Undefined variable: image /Applications/XAMPP/xamppfiles/htdocs/RAR/applications/app_1_0/controllers/Home.php 48
+ERROR - 2018-12-16 11:55:43 --> Severity: Notice --> Undefined variable: image /Applications/XAMPP/xamppfiles/htdocs/RAR/applications/app_1_0/controllers/Home.php 48
+ERROR - 2018-12-16 11:55:43 --> Severity: Notice --> Undefined variable: btn_class /Applications/XAMPP/xamppfiles/htdocs/RAR/applications/app_1_0/views/front/select.php 26
+ERROR - 2018-12-16 11:55:43 --> Severity: Notice --> Undefined variable: btn_class /Applications/XAMPP/xamppfiles/htdocs/RAR/applications/app_1_0/views/front/select.php 26
+ERROR - 2018-12-16 11:55:43 --> Severity: Notice --> Undefined variable: btn_class /Applications/XAMPP/xamppfiles/htdocs/RAR/applications/app_1_0/views/front/select.php 26
+ERROR - 2018-12-16 12:00:08 --> Severity: Notice --> Undefined variable: image /Applications/XAMPP/xamppfiles/htdocs/RAR/applications/app_1_0/controllers/Home.php 48
+ERROR - 2018-12-16 12:00:08 --> Severity: Notice --> Undefined variable: btn_class /Applications/XAMPP/xamppfiles/htdocs/RAR/applications/app_1_0/views/front/select.php 26
+ERROR - 2018-12-16 12:00:08 --> Severity: Notice --> Undefined variable: btn_class /Applications/XAMPP/xamppfiles/htdocs/RAR/applications/app_1_0/views/front/select.php 26
+ERROR - 2018-12-16 12:00:08 --> Severity: Notice --> Undefined variable: btn_class /Applications/XAMPP/xamppfiles/htdocs/RAR/applications/app_1_0/views/front/select.php 26
+ERROR - 2018-12-16 12:00:26 --> Severity: Notice --> Undefined variable: btn_class /Applications/XAMPP/xamppfiles/htdocs/RAR/applications/app_1_0/views/front/select.php 26
+ERROR - 2018-12-16 12:00:26 --> Severity: Notice --> Undefined variable: btn_class /Applications/XAMPP/xamppfiles/htdocs/RAR/applications/app_1_0/views/front/select.php 26
+ERROR - 2018-12-16 12:00:26 --> Severity: Notice --> Undefined variable: btn_class /Applications/XAMPP/xamppfiles/htdocs/RAR/applications/app_1_0/views/front/select.php 26
+ERROR - 2018-12-16 12:00:30 --> Severity: Notice --> Undefined variable: btn_class /Applications/XAMPP/xamppfiles/htdocs/RAR/applications/app_1_0/views/front/select.php 26
+ERROR - 2018-12-16 12:00:30 --> Severity: Notice --> Undefined variable: btn_class /Applications/XAMPP/xamppfiles/htdocs/RAR/applications/app_1_0/views/front/select.php 26
+ERROR - 2018-12-16 12:00:30 --> Severity: Notice --> Undefined variable: btn_class /Applications/XAMPP/xamppfiles/htdocs/RAR/applications/app_1_0/views/front/select.php 26
+ERROR - 2018-12-16 12:00:32 --> Severity: Notice --> Undefined variable: btn_class /Applications/XAMPP/xamppfiles/htdocs/RAR/applications/app_1_0/views/front/select.php 26
+ERROR - 2018-12-16 12:00:32 --> Severity: Notice --> Undefined variable: btn_class /Applications/XAMPP/xamppfiles/htdocs/RAR/applications/app_1_0/views/front/select.php 26
+ERROR - 2018-12-16 12:00:32 --> Severity: Notice --> Undefined variable: btn_class /Applications/XAMPP/xamppfiles/htdocs/RAR/applications/app_1_0/views/front/select.php 26
+ERROR - 2018-12-16 12:00:33 --> Severity: Notice --> Undefined variable: btn_class /Applications/XAMPP/xamppfiles/htdocs/RAR/applications/app_1_0/views/front/select.php 26
+ERROR - 2018-12-16 12:00:33 --> Severity: Notice --> Undefined variable: btn_class /Applications/XAMPP/xamppfiles/htdocs/RAR/applications/app_1_0/views/front/select.php 26
+ERROR - 2018-12-16 12:00:33 --> Severity: Notice --> Undefined variable: btn_class /Applications/XAMPP/xamppfiles/htdocs/RAR/applications/app_1_0/views/front/select.php 26
+ERROR - 2018-12-16 12:00:34 --> Severity: Notice --> Undefined variable: btn_class /Applications/XAMPP/xamppfiles/htdocs/RAR/applications/app_1_0/views/front/select.php 26
+ERROR - 2018-12-16 12:00:34 --> Severity: Notice --> Undefined variable: btn_class /Applications/XAMPP/xamppfiles/htdocs/RAR/applications/app_1_0/views/front/select.php 26
+ERROR - 2018-12-16 12:00:34 --> Severity: Notice --> Undefined variable: btn_class /Applications/XAMPP/xamppfiles/htdocs/RAR/applications/app_1_0/views/front/select.php 26
+ERROR - 2018-12-16 12:00:40 --> Severity: Notice --> Undefined variable: btn_class /Applications/XAMPP/xamppfiles/htdocs/RAR/applications/app_1_0/views/front/select.php 26
+ERROR - 2018-12-16 12:00:40 --> Severity: Notice --> Undefined variable: btn_class /Applications/XAMPP/xamppfiles/htdocs/RAR/applications/app_1_0/views/front/select.php 26
+ERROR - 2018-12-16 12:00:40 --> Severity: Notice --> Undefined variable: btn_class /Applications/XAMPP/xamppfiles/htdocs/RAR/applications/app_1_0/views/front/select.php 26
+ERROR - 2018-12-16 12:00:47 --> Severity: Notice --> Undefined variable: btn_class /Applications/XAMPP/xamppfiles/htdocs/RAR/applications/app_1_0/views/front/select.php 26
+ERROR - 2018-12-16 12:00:47 --> Severity: Notice --> Undefined variable: btn_class /Applications/XAMPP/xamppfiles/htdocs/RAR/applications/app_1_0/views/front/select.php 26
+ERROR - 2018-12-16 12:00:47 --> Severity: Notice --> Undefined variable: btn_class /Applications/XAMPP/xamppfiles/htdocs/RAR/applications/app_1_0/views/front/select.php 26
+ERROR - 2018-12-16 12:00:49 --> Severity: Notice --> Undefined variable: btn_class /Applications/XAMPP/xamppfiles/htdocs/RAR/applications/app_1_0/views/front/select.php 26
+ERROR - 2018-12-16 12:00:49 --> Severity: Notice --> Undefined variable: btn_class /Applications/XAMPP/xamppfiles/htdocs/RAR/applications/app_1_0/views/front/select.php 26
+ERROR - 2018-12-16 12:00:49 --> Severity: Notice --> Undefined variable: btn_class /Applications/XAMPP/xamppfiles/htdocs/RAR/applications/app_1_0/views/front/select.php 26
+ERROR - 2018-12-16 12:00:51 --> Severity: Notice --> Undefined variable: btn_class /Applications/XAMPP/xamppfiles/htdocs/RAR/applications/app_1_0/views/front/select.php 26
+ERROR - 2018-12-16 12:00:51 --> Severity: Notice --> Undefined variable: btn_class /Applications/XAMPP/xamppfiles/htdocs/RAR/applications/app_1_0/views/front/select.php 26
+ERROR - 2018-12-16 12:00:51 --> Severity: Notice --> Undefined variable: btn_class /Applications/XAMPP/xamppfiles/htdocs/RAR/applications/app_1_0/views/front/select.php 26
+ERROR - 2018-12-16 12:00:52 --> Severity: Notice --> Undefined variable: btn_class /Applications/XAMPP/xamppfiles/htdocs/RAR/applications/app_1_0/views/front/select.php 26
+ERROR - 2018-12-16 12:00:52 --> Severity: Notice --> Undefined variable: btn_class /Applications/XAMPP/xamppfiles/htdocs/RAR/applications/app_1_0/views/front/select.php 26
+ERROR - 2018-12-16 12:00:52 --> Severity: Notice --> Undefined variable: btn_class /Applications/XAMPP/xamppfiles/htdocs/RAR/applications/app_1_0/views/front/select.php 26
+ERROR - 2018-12-16 12:00:53 --> Severity: Notice --> Undefined variable: btn_class /Applications/XAMPP/xamppfiles/htdocs/RAR/applications/app_1_0/views/front/select.php 26
+ERROR - 2018-12-16 12:00:53 --> Severity: Notice --> Undefined variable: btn_class /Applications/XAMPP/xamppfiles/htdocs/RAR/applications/app_1_0/views/front/select.php 26
+ERROR - 2018-12-16 12:00:53 --> Severity: Notice --> Undefined variable: btn_class /Applications/XAMPP/xamppfiles/htdocs/RAR/applications/app_1_0/views/front/select.php 26
+ERROR - 2018-12-16 12:00:55 --> Severity: Notice --> Undefined variable: btn_class /Applications/XAMPP/xamppfiles/htdocs/RAR/applications/app_1_0/views/front/select.php 26
+ERROR - 2018-12-16 12:00:55 --> Severity: Notice --> Undefined variable: btn_class /Applications/XAMPP/xamppfiles/htdocs/RAR/applications/app_1_0/views/front/select.php 26
+ERROR - 2018-12-16 12:00:55 --> Severity: Notice --> Undefined variable: btn_class /Applications/XAMPP/xamppfiles/htdocs/RAR/applications/app_1_0/views/front/select.php 26
+ERROR - 2018-12-16 12:00:57 --> Severity: Notice --> Undefined variable: btn_class /Applications/XAMPP/xamppfiles/htdocs/RAR/applications/app_1_0/views/front/select.php 26
+ERROR - 2018-12-16 12:00:57 --> Severity: Notice --> Undefined variable: btn_class /Applications/XAMPP/xamppfiles/htdocs/RAR/applications/app_1_0/views/front/select.php 26
+ERROR - 2018-12-16 12:00:57 --> Severity: Notice --> Undefined variable: btn_class /Applications/XAMPP/xamppfiles/htdocs/RAR/applications/app_1_0/views/front/select.php 26
+ERROR - 2018-12-16 12:00:58 --> Severity: Notice --> Undefined variable: btn_class /Applications/XAMPP/xamppfiles/htdocs/RAR/applications/app_1_0/views/front/select.php 26
+ERROR - 2018-12-16 12:00:58 --> Severity: Notice --> Undefined variable: btn_class /Applications/XAMPP/xamppfiles/htdocs/RAR/applications/app_1_0/views/front/select.php 26
+ERROR - 2018-12-16 12:00:58 --> Severity: Notice --> Undefined variable: btn_class /Applications/XAMPP/xamppfiles/htdocs/RAR/applications/app_1_0/views/front/select.php 26
+ERROR - 2018-12-16 12:00:59 --> Severity: Notice --> Undefined variable: btn_class /Applications/XAMPP/xamppfiles/htdocs/RAR/applications/app_1_0/views/front/select.php 26
+ERROR - 2018-12-16 12:00:59 --> Severity: Notice --> Undefined variable: btn_class /Applications/XAMPP/xamppfiles/htdocs/RAR/applications/app_1_0/views/front/select.php 26
+ERROR - 2018-12-16 12:00:59 --> Severity: Notice --> Undefined variable: btn_class /Applications/XAMPP/xamppfiles/htdocs/RAR/applications/app_1_0/views/front/select.php 26
+ERROR - 2018-12-16 12:01:00 --> Severity: Notice --> Undefined variable: btn_class /Applications/XAMPP/xamppfiles/htdocs/RAR/applications/app_1_0/views/front/select.php 26
+ERROR - 2018-12-16 12:01:00 --> Severity: Notice --> Undefined variable: btn_class /Applications/XAMPP/xamppfiles/htdocs/RAR/applications/app_1_0/views/front/select.php 26
+ERROR - 2018-12-16 12:01:00 --> Severity: Notice --> Undefined variable: btn_class /Applications/XAMPP/xamppfiles/htdocs/RAR/applications/app_1_0/views/front/select.php 26
+ERROR - 2018-12-16 12:09:35 --> Severity: Notice --> Undefined variable: image /Applications/XAMPP/xamppfiles/htdocs/RAR/applications/app_1_0/controllers/Home.php 48
+ERROR - 2018-12-16 12:09:40 --> Severity: Notice --> Undefined variable: image /Applications/XAMPP/xamppfiles/htdocs/RAR/applications/app_1_0/controllers/Home.php 48
+ERROR - 2018-12-16 12:13:06 --> Directory does not exist, please create directory or defined valid path in first argument
+ERROR - 2018-12-16 12:13:06 --> file upload error
+ERROR - 2018-12-16 12:15:50 --> Severity: Notice --> Undefined variable: image /Applications/XAMPP/xamppfiles/htdocs/RAR/applications/app_1_0/controllers/Home.php 48
+ERROR - 2018-12-16 12:19:39 --> Directory does not exist, please create directory or defined valid path in first argument
+ERROR - 2018-12-16 12:19:39 --> file upload error
+ERROR - 2018-12-16 12:44:01 --> Directory does not exist, please create directory or defined valid path in first argument
+ERROR - 2018-12-16 12:44:01 --> file upload error
+ERROR - 2018-12-16 12:44:04 --> Directory does not exist, please create directory or defined valid path in first argument
+ERROR - 2018-12-16 12:44:04 --> file upload error
+ERROR - 2018-12-16 13:12:58 --> Directory does not exist, please create directory or defined valid path in first argument
+ERROR - 2018-12-16 13:12:58 --> file upload error
+ERROR - 2018-12-16 13:13:03 --> Directory does not exist, please create directory or defined valid path in first argument
+ERROR - 2018-12-16 13:13:03 --> file upload error
+ERROR - 2018-12-16 13:13:30 --> Directory does not exist, please create directory or defined valid path in first argument
+ERROR - 2018-12-16 13:13:30 --> file upload error
+ERROR - 2018-12-16 13:14:03 --> Severity: Notice --> Undefined variable: image /Applications/XAMPP/xamppfiles/htdocs/RAR/applications/app_1_0/controllers/Home.php 48
+ERROR - 2018-12-16 13:14:10 --> Severity: Notice --> Undefined variable: image /Applications/XAMPP/xamppfiles/htdocs/RAR/applications/app_1_0/controllers/Home.php 48
+ERROR - 2018-12-16 13:15:50 --> Directory does not exist, please create directory or defined valid path in first argument
+ERROR - 2018-12-16 13:15:50 --> file upload error
+ERROR - 2018-12-16 13:16:07 --> Directory does not exist, please create directory or defined valid path in first argument
+ERROR - 2018-12-16 13:16:07 --> file upload error
+ERROR - 2018-12-16 13:16:56 --> Directory does not exist, please create directory or defined valid path in first argument
+ERROR - 2018-12-16 13:16:56 --> file upload error
+ERROR - 2018-12-16 13:58:51 --> Severity: Notice --> Undefined variable: image /Applications/XAMPP/xamppfiles/htdocs/RAR/applications/app_1_0/controllers/Home.php 48
+ERROR - 2018-12-16 13:58:56 --> Severity: error --> Exception: Call to undefined method Helper_model::insert() /Applications/XAMPP/xamppfiles/htdocs/RAR/applications/app_1_0/controllers/Select.php 41
+ERROR - 2018-12-16 14:26:54 --> Severity: Notice --> Undefined variable: image /Applications/XAMPP/xamppfiles/htdocs/RAR/applications/app_1_0/controllers/Home.php 48
+ERROR - 2018-12-16 14:27:18 --> Severity: Notice --> Undefined variable: image /Applications/XAMPP/xamppfiles/htdocs/RAR/applications/app_1_0/controllers/Home.php 48

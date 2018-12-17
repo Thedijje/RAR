@@ -24,6 +24,8 @@ class Select extends CI_Controller {
 			$this->lib->redirect_msg('','/','info');
 		}
 
+		$incident_img 		=	$this->session->userdata('incident_image');
+
 		$check_incident 	=	$this->lib->get_row_array('incidents_service',array('incident_id'=>$incident_id,'service_id'=>$data['selected_service']));
 		if($check_incident){
 			$this->lib->redirect_msg('Your incident already reported, you may be notified once help initiate for arriving','info','success');
@@ -35,6 +37,8 @@ class Select extends CI_Controller {
 			'service_id'	=>	$data['selected_service'],
 			'is_at'			=>	time()
 		);
+
+		$save_incident_image	=	$this->db->insert('incident_images',array('ii_incident_id'=>$incident_id,'ii_image'=>$incident_img));
 
 		$this->db->insert('incidents_service',$incident_service);
 		$this->lib->redirect_msg('Your request has been sent for the response and appropriate help is on the way','success','success');

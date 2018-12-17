@@ -9,7 +9,7 @@
     <br>
     <div class="form-group">
 <form action="<?php echo base_url('select/save')?>" class="form button_nav save_incident" method="post">
-<div class="input-group">
+<div class="input-group d-none">
 
     <input type="text" class="form-control form-control-lg" id="inlineFormInputGroup" placeholder="Your message">
     <div class="input-group-prepend">
@@ -20,8 +20,10 @@
 </div>
     
     <div class="form-group">
-        <?php foreach($services as $service):?>
-            <span data-service-id="<?php echo $service->service_id;?>" class="select_service btn btn-warning btn-block btn-lg"><i class="fa <?php echo $service->service_icon;?> fa-2x fa-fw"></i> <span class="float-right d-none selected"><i class="fa fa-check"></i></span> </span>
+        <?php foreach($services as $service):
+            
+            ?>
+            <span data-service-id="<?php echo $service->service_id;?>" class="select_service btn <?php echo $service->service_btn_class;?> btn-block btn-lg"><i class="fa <?php echo $service->service_icon;?> fa-2x fa-fw"></i> <?php echo $service->service_name;;?><span class="float-right d-none selected"><i class="fa fa-check"></i></span> </span>
         <?php endforeach;?>
     </div>
     <input type="hidden" name="selected_service" class="d-none service_input" value="">

@@ -1,8 +1,8 @@
 
         <section class="camera text-center">
-            <form action="<?php echo base_url('home/save')?>" class="form" method="post" enctype="multipart/form-data">
+            <form action="<?php echo base_url('home/save')?>" class="form pic_form" method="post" enctype="multipart/form-data">
                 <input name="clicked_pic" type="file" accept="image/*" class="d-none" capture="environment" id="click_pic" onchange="readURL(this,'cam_preview')">
-                <img src="<?php echo base_url('static/images/camera.png');?>" alt="Click image" id="cam_preview" onclick="$('#click_pic').click();">
+                <img src="<?php echo base_url('static/images/camera.png');?>" alt="Click image" id="cam_preview">
 
                 <p class="text-center step_2">
                     

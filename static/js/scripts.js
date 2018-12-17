@@ -15,13 +15,25 @@ $(document).on('change','#click_pic',function(){
     $('.proceed_select').removeClass('d-none');
 });
 
+onclick=""
+
+$(document).on("click","#cam_preview", function(){
+    
+    $('#click_pic').click();
+
+});
+
+
+
 $(document).on('change','#click_pic',function(){
+   
     if(this.files.length==0){
-        $('this').attr('src',base_url+'static/images/camera.png');
-        
+       
+        $(this).attr('src',base_url+'static/images/camera.png');
         return true;
     }else{
-        $('.click_msg').html('<i class="fa fa-camera"></i> Tab above to take snap');
+
+        $('.click_msg').html('<i class="fa fa-camera"></i> Tap to change');
     }
 });
 
